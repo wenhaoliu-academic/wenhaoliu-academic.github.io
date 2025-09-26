@@ -69,6 +69,14 @@ I aspire to advance next-generation **underwater networking and wireless sensing
 - Achieved **±10 cm precision** in autonomous navigation and landing.  
 - Awarded **First Prize in the National Undergraduate Electronic Design Contest**.  
 
+---
+
+## Teaching & Mentorship  
+
+- **Undergraduate Supervision**: Currently mentoring **3 undergraduate students** on the *Passive Omnidirectional Ultrasound Communication System* project, guiding them in circuit design, simulation, and prototype testing.  
+- Experienced in **team-based research projects**, fostering hands-on collaboration between graduate and undergraduate researchers.  
+
+
 
 ---
 
@@ -85,12 +93,6 @@ I aspire to advance next-generation **underwater networking and wireless sensing
 
 ---
 
-## Teaching & Mentorship  
-
-- **Undergraduate Supervision**: Currently mentoring **3 undergraduate students** on the *Passive Omnidirectional Ultrasound Communication System* project, guiding them in circuit design, simulation, and prototype testing.  
-- Experienced in **team-based research projects**, fostering hands-on collaboration between graduate and undergraduate researchers.  
-
----
 
 ## Skills  
 
