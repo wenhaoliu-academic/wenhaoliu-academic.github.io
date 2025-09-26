@@ -24,6 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   avatar    : "1.png"
   name      : "Wenhao Liu"
+  bio       : "Master’s student in Electronic Science & Technology at Northwest University, researching underwater backscatter communication and acoustic metasurfaces."
   location  : "Xi’an, China"
   email     : "mailto:wenhaoliu0805@gmail.com"
 
