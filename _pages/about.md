@@ -12,7 +12,8 @@ redirect_from:
 
 🎓 Master’s Student in Electronic Science & Technology  
 📍 Northwest University (NWU), Xi’an, China  
-📧 wenhaoliu0805@gmail.com  
+📧 [wenhaoliu0805@gmail.com](mailto:wenhaoliu0805@gmail.com)
+
 
 ---
 
