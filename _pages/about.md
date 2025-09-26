@@ -32,6 +32,28 @@ I aspire to advance next-generation **underwater networking and wireless sensing
 - 🔊 **Acoustic Metasurfaces & Piezoelectric Devices**: Beamforming, tunable impedance, wideband designs  
 - ⚡ **Low-Power Sensing & Energy Harvesting**: Self-powered ultrasonic implants and piezoelectric devices  
 
+
+---
+
+## Patents & Publications  
+
+- **Patent**: Dynamically Tunable Broadband Acoustic Metasurface (Filed 2024)  
+- **Patent**: Acoustic-Based Multi-User Respiration Monitoring (Filed 2024)  
+- **Paper**: *MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface* (Under Review at ACM MobiCom 2026)  
+
+---
+
+## Honors & Awards  
+
+- 🏅 **National Scholarship** (Top 0.2% Nationwide, 12/2022)  
+- 🏅 **National Encouragement Scholarship** (Top 3% Nationwide, 11/2022)  
+- 🏅 **National First Prize**, Undergraduate Electronic Design Contest (Top 1.72%, 12/2021)  
+- 🏅 **Provincial Merit Student Award** (06/2022)  
+- 🏅 **Provincial Outstanding Graduate Award** (06/2023)  
+- 🏅 **Provincial Second Prize**, 13th Lanqiao Cup National Software & IT Talent Competition (Top 20%, 05/2022)  
+- 🏅 **President Scholarship**, NWU (Top 0.25% of the school, 12/2022)  
+
+
 ---
 
 ## Research Experience  
@@ -66,26 +88,6 @@ I aspire to advance next-generation **underwater networking and wireless sensing
 
 - **Undergraduate Supervision**: Currently mentoring **3 undergraduate students** on the *Passive Omnidirectional Ultrasound Communication System* project, guiding them in circuit design, simulation, and prototype testing.  
 - Experienced in **team-based research projects**, fostering hands-on collaboration between graduate and undergraduate researchers.  
-
----
-
-## Patents & Publications  
-
-- **Patent**: Dynamically Tunable Broadband Acoustic Metasurface (Filed 2024)  
-- **Patent**: Acoustic-Based Multi-User Respiration Monitoring (Filed 2024)  
-- **Paper**: *MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface* (Under Review at ACM MobiCom 2026)  
-
----
-
-## Honors & Awards  
-
-- 🏅 **National Scholarship** (Top 0.2% Nationwide, 12/2022)  
-- 🏅 **National Encouragement Scholarship** (Top 3% Nationwide, 11/2022)  
-- 🏅 **National First Prize**, Undergraduate Electronic Design Contest (Top 1.72%, 12/2021)  
-- 🏅 **Provincial Merit Student Award** (06/2022)  
-- 🏅 **Provincial Outstanding Graduate Award** (06/2023)  
-- 🏅 **Provincial Second Prize**, 13th Lanqiao Cup National Software & IT Talent Competition (Top 20%, 05/2022)  
-- 🏅 **President Scholarship**, NWU (Top 0.25% of the school, 12/2022)  
 
 ---
 
