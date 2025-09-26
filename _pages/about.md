@@ -43,19 +43,6 @@ I aspire to advance next-generation **underwater networking and wireless sensing
 
 ---
 
-## Honors & Awards  
-
-- 🏅 **National Scholarship** (Top 0.2% Nationwide, 12/2022)  
-- 🏅 **National Encouragement Scholarship** (Top 3% Nationwide, 11/2022)  
-- 🏅 **National First Prize**, Undergraduate Electronic Design Contest (Top 1.72%, 12/2021)  
-- 🏅 **Provincial Merit Student Award** (06/2022)  
-- 🏅 **Provincial Outstanding Graduate Award** (06/2023)  
-- 🏅 **Provincial Second Prize**, 13th Lanqiao Cup National Software & IT Talent Competition (Top 20%, 05/2022)  
-- 🏅 **President Scholarship**, NWU (Top 0.25% of the school, 12/2022)  
-
-
----
-
 ## Research Experience  
 
 ### MetaScatter: Enabling High-Order Underwater Backscatter  
@@ -81,6 +68,20 @@ I aspire to advance next-generation **underwater networking and wireless sensing
 - Built a vision-guided UAV spraying system with OpenMV-based processing and dual-loop PID flight control.  
 - Achieved **±10 cm precision** in autonomous navigation and landing.  
 - Awarded **First Prize in the National Undergraduate Electronic Design Contest**.  
+
+
+---
+
+## Honors & Awards  
+
+- 🏅 **National Scholarship** (Top 0.2% Nationwide, 12/2022)  
+- 🏅 **National Encouragement Scholarship** (Top 3% Nationwide, 11/2022)  
+- 🏅 **National First Prize**, Undergraduate Electronic Design Contest (Top 1.72%, 12/2021)  
+- 🏅 **Provincial Merit Student Award** (06/2022)  
+- 🏅 **Provincial Outstanding Graduate Award** (06/2023)  
+- 🏅 **Provincial Second Prize**, 13th Lanqiao Cup National Software & IT Talent Competition (Top 20%, 05/2022)  
+- 🏅 **President Scholarship**, NWU (Top 0.25% of the school, 12/2022)  
+
 
 ---
 
