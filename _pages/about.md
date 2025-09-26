@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Wenhao Liu – Wireless & Underwater Sensing"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+
 # Wenhao Liu  
 
 🎓 Master’s Student in Electronic Science & Technology  
