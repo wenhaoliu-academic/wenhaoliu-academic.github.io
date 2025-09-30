@@ -12,8 +12,8 @@ Each embedded viewer is responsive (16:9) — if the viewer fails to load you ca
 
 ---
 
-## DDR3 Memory Interface Board  
-*High-speed DDR3 interface board co-designed for Xilinx 7-series FPGA applications.*
+## FPGA Core Board
+*Was for MetaScatter, plan changed. Now just a fun FPGA board with endless expansion pins. Cadence routing gave me gray hairs.*
 
 <div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9 -->
   <iframe 
