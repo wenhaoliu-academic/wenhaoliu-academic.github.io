@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PCB Projects"
+title: "Build & Play"
 permalink: /pcb/
 author_profile: true
 ---
