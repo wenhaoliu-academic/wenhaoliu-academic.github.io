@@ -66,26 +66,28 @@ Routing in Cadence gave me gray hairs 😅.*
 ---
 
 ## CW-AcousLen Hardware Prototype 🛰️  
-*Prototype PCB for the paper accepted at MobiSys 2024: "CW-AcousLen: Configurable Wideband Acoustic Metasurface".  
-Excited to have contributed to the hardware validation for this work!*
+*Prototype PCBs for the paper accepted at MobiSys 2024: "CW-AcousLen: Configurable Wideband Acoustic Metasurface".  
+Thrilled to contribute to the hardware validation of this work!*
 
-<div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9 -->
-  <iframe 
-    src="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=B9896433-C789-4802-BCD8-E84FC50FC5A9&activeView=PCB" 
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;overflow:hidden;" 
-    scrolling="no" 
-    allowfullscreen="true">
-  </iframe>
-</div>
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px;">
 
-<div style="margin-top:12px;margin-bottom:30px;">
-  <a href="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=B9896433-C789-4802-BCD8-E84FC50FC5A9&activeView=PCB" 
-     target="_blank" 
-     rel="noopener noreferrer"
-     style="display:inline-block;padding:10px 18px;background:#0078d4;color:#fff;text-decoration:none;border-radius:6px;">
-    Open in Altium 365
-  </a>
-</div>
+  <!-- Sensor Node PCB -->
+  <div style="flex:1 1 45%; position:relative; padding-top:56.25%;">
+    <iframe 
+      src="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=B9896433-C789-4802-BCD8-E84FC50FC5A9&activeView=PCB" 
+      style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;overflow:hidden;" 
+      scrolling="no" 
+      allowfullscreen="true">
+    </iframe>
+    <div style="text-align:center; margin-top:8px;">
+      Sensor Node PCB
+    </div>
+  </div>
+
+  <!-- Ultrasound Power & Comms Board -->
+  <div style="flex:1 1 45%; position:relative; padding-top:56.25%;">
+    <iframe 
+      src="https://personal-viewer.365.altium.com/client/index.html?feature=embed&sourc
 
 
 ## Compact Metasurface Control Board  
