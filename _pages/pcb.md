@@ -88,7 +88,6 @@ Thrilled to contribute to the hardware validation of this work!*
         Open in Altium 365
       </a>
     </div>
-    <div style="margin-top:4px;">Shift Register Expansion Board</div>
   </div>
 
   <!-- Solenoid Valve Driver Board -->
@@ -109,7 +108,6 @@ Thrilled to contribute to the hardware validation of this work!*
         Open in Altium 365
       </a>
     </div>
-    <div style="margin-top:4px;">Solenoid Valve Driver Board</div>
   </div>
 
 </div>
