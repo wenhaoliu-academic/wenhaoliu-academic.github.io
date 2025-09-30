@@ -65,8 +65,9 @@ Routing in Cadence gave me gray hairs 😅.*
 
 ---
 
-## Sensor Node PCB  
-*Compact, low-power sensor node circuit designed for distributed IoT systems.*
+## CW-AcousLen Hardware Prototype 🛰️  
+*Prototype PCB for the paper accepted at MobiSys 2024: "CW-AcousLen: Configurable Wideband Acoustic Metasurface".  
+Excited to have contributed to the hardware validation for this work!*
 
 <div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9 -->
   <iframe 
@@ -86,30 +87,6 @@ Routing in Cadence gave me gray hairs 😅.*
   </a>
 </div>
 
----
-
-## Ultrasound Power & Comms Board  
-*PCB enabling μW-level ultrasound energy harvesting and backscatter communication.*
-
-<div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9 -->
-  <iframe 
-    src="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=5B61E15B-77DD-4671-9F8C-8E5706E4053C&activeView=PCB" 
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;overflow:hidden;" 
-    scrolling="no" 
-    allowfullscreen="true">
-  </iframe>
-</div>
-
-<div style="margin-top:12px;margin-bottom:30px;">
-  <a href="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=5B61E15B-77DD-4671-9F8C-8E5706E4053C&activeView=PCB" 
-     target="_blank" 
-     rel="noopener noreferrer"
-     style="display:inline-block;padding:10px 18px;background:#0078d4;color:#fff;text-decoration:none;border-radius:6px;">
-    Open in Altium 365
-  </a>
-</div>
-
----
 
 ## Compact Metasurface Control Board  
 *Programmable acoustic metasurface controller for adaptive underwater communication.*
