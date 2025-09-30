@@ -115,8 +115,9 @@ Thrilled to contribute to the hardware validation of this work!*
 
 
 ---
-## Compact Metasurface Control Board  
-*Programmable acoustic metasurface controller for adaptive underwater communication.*
+## Acoustic Transmitter Board 🔊  
+*First attempt at a powerful acoustic amplifier for our MetaScatter experiments.  
+Supports external devices and serves as a robust transmission front-end for adaptive underwater communication.*
 
 <div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9 -->
   <iframe 
