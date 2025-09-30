@@ -84,7 +84,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  margin-left: -10px;  //
+  margin-left: -20px;  //
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -92,6 +92,7 @@
     display: block;
     width: auto;
     height: auto;
+    margin-left: -20px;  //
   }
 
   img {
