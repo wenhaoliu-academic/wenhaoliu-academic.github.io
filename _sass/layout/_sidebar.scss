@@ -107,8 +107,8 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 20px;
-  padding-right: 30px;
+  padding-left: 15px;
+  padding-right: 25px;
   line-height: 1;
 
   @include breakpoint($large) {
@@ -123,8 +123,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 }
 .sidebar .author__name {
