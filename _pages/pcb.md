@@ -8,14 +8,14 @@ author_profile: true
 # My PCB Projects
 
 Explore my PCB designs interactively using **Altium 365 Viewer**.  
-You can rotate, zoom, and inspect layers directly in the embedded viewer below.  
+Each embedded viewer is responsive (16:9) — if the viewer fails to load you can open the project in a new tab via the button.
 
 ---
 
 ## DDR3 Memory Interface Board  
 *High-speed DDR3 interface board co-designed for Xilinx 7-series FPGA applications.*
 
-<div style="position:relative;width:100%;padding-top:56.25%;">
+<div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9 -->
   <iframe 
     src="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=1FED961A-2EF8-482A-BCFC-36FE4C2AD0B4&activeView=Gerber" 
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;overflow:hidden;" 
@@ -24,12 +24,21 @@ You can rotate, zoom, and inspect layers directly in the embedded viewer below.
   </iframe>
 </div>
 
+<div style="margin-top:12px;margin-bottom:30px;">
+  <a href="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=1FED961A-2EF8-482A-BCFC-36FE4C2AD0B4&activeView=Gerber" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="display:inline-block;padding:10px 18px;background:#0078d4;color:#fff;text-decoration:none;border-radius:6px;">
+    Open in Altium 365
+  </a>
+</div>
+
 ---
 
 ## FPGA Beamforming Control Board  
 *FPGA-controlled acoustic beamforming platform with reconfigurable wideband operation.*
 
-<div style="position:relative;width:100%;padding-top:56.25%;"> 
+<div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9 -->
   <iframe 
     src="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=D5A7F3BC-3EFF-4729-9E49-2FB1470D1EC3&activeView=PCB" 
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;overflow:hidden;" 
@@ -38,12 +47,21 @@ You can rotate, zoom, and inspect layers directly in the embedded viewer below.
   </iframe>
 </div>
 
+<div style="margin-top:12px;margin-bottom:30px;">
+  <a href="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=D5A7F3BC-3EFF-4729-9E49-2FB1470D1EC3&activeView=PCB" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="display:inline-block;padding:10px 18px;background:#0078d4;color:#fff;text-decoration:none;border-radius:6px;">
+    Open in Altium 365
+  </a>
+</div>
+
 ---
 
 ## Sensor Node PCB  
 *Compact, low-power sensor node circuit designed for distributed IoT systems.*
 
-<div style="position:relative;width:100%;padding-top:56.25%;"> 
+<div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9 -->
   <iframe 
     src="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=B9896433-C789-4802-BCD8-E84FC50FC5A9&activeView=PCB" 
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;overflow:hidden;" 
@@ -52,12 +70,21 @@ You can rotate, zoom, and inspect layers directly in the embedded viewer below.
   </iframe>
 </div>
 
+<div style="margin-top:12px;margin-bottom:30px;">
+  <a href="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=B9896433-C789-4802-BCD8-E84FC50FC5A9&activeView=PCB" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="display:inline-block;padding:10px 18px;background:#0078d4;color:#fff;text-decoration:none;border-radius:6px;">
+    Open in Altium 365
+  </a>
+</div>
+
 ---
 
 ## Ultrasound Power & Comms Board  
 *PCB enabling μW-level ultrasound energy harvesting and backscatter communication.*
 
-<div style="position:relative;width:100%;padding-top:56.25%;"> 
+<div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9 -->
   <iframe 
     src="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=5B61E15B-77DD-4671-9F8C-8E5706E4053C&activeView=PCB" 
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;overflow:hidden;" 
@@ -66,16 +93,34 @@ You can rotate, zoom, and inspect layers directly in the embedded viewer below.
   </iframe>
 </div>
 
+<div style="margin-top:12px;margin-bottom:30px;">
+  <a href="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=5B61E15B-77DD-4671-9F8C-8E5706E4053C&activeView=PCB" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="display:inline-block;padding:10px 18px;background:#0078d4;color:#fff;text-decoration:none;border-radius:6px;">
+    Open in Altium 365
+  </a>
+</div>
+
 ---
 
 ## Compact Metasurface Control Board  
 *Programmable acoustic metasurface controller for adaptive underwater communication.*
 
-<div style="position:relative;width:100%;padding-top:56.25%;"> 
+<div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9 -->
   <iframe 
     src="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=9CEC73F1-20DB-4AD5-9DA7-C80DBF32D76B&activeView=PCB" 
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;overflow:hidden;" 
     scrolling="no" 
     allowfullscreen="true">
   </iframe>
+</div>
+
+<div style="margin-top:12px;margin-bottom:30px;">
+  <a href="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=9CEC73F1-20DB-4AD5-9DA7-C80DBF32D76B&activeView=PCB" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="display:inline-block;padding:10px 18px;background:#0078d4;color:#fff;text-decoration:none;border-radius:6px;">
+    Open in Altium 365
+  </a>
 </div>
