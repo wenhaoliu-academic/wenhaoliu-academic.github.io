@@ -10,18 +10,44 @@ author_profile: true
 Explore my PCB designs interactively using **Altium 365 Viewer**.  
 You can rotate, zoom, and inspect layers directly in the embedded viewer below.  
 
-<iframe 
-  src="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=32E0AB03-E6FE-4712-8606-A7B6AE9B347B&activeView=PCB" 
-  style="width:100%; height:720px; border:none; overflow:hidden;" 
-  scrolling="no" 
-  allowfullscreen="true" 
-  onload="window.top.scrollTo(0,0);">
-</iframe>
+## Project 1: PCB Design 1
+
+<div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9比例 -->
+  <iframe 
+    src="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=32E0AB03-E6FE-4712-8606-A7B6AE9B347B&activeView=PCB" 
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;overflow:hidden;" 
+    scrolling="no" 
+    allowfullscreen="true">
+  </iframe>
+</div>
 
 > **Tip:** If the viewer does not load, you can open the project directly on [Altium 365](https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=32E0AB03-E6FE-4712-8606-A7B6AE9B347B&activeView=PCB) by clicking the button below.
 
 <div style="margin-top: 20px;">
   <a href="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=32E0AB03-E6FE-4712-8606-A7B6AE9B347B&activeView=PCB" 
+     target="_blank" 
+     style="display:inline-block; padding:12px 24px; background-color:#0078d4; color:white; text-decoration:none; border-radius:6px;">
+    Open in Altium 365
+  </a>
+</div>
+
+---
+
+## Project 2: PCB Gerber
+
+<div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9比例 -->
+  <iframe 
+    src="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=1FED961A-2EF8-482A-BCFC-36FE4C2AD0B4&activeView=Gerber" 
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;overflow:hidden;" 
+    scrolling="no" 
+    allowfullscreen="true">
+  </iframe>
+</div>
+
+> **Tip:** If the viewer does not load, you can open the Gerber project directly on [Altium 365](https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=1FED961A-2EF8-482A-BCFC-36FE4C2AD0B4&activeView=Gerber) by clicking the button below.
+
+<div style="margin-top: 20px;">
+  <a href="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=1FED961A-2EF8-482A-BCFC-36FE4C2AD0B4&activeView=Gerber" 
      target="_blank" 
      style="display:inline-block; padding:12px 24px; background-color:#0078d4; color:white; text-decoration:none; border-radius:6px;">
     Open in Altium 365
