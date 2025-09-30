@@ -14,8 +14,10 @@ New projects added from time to time — stay tuned!
 
 ---
 
-## FPGA Core Board
-*Was for MetaScatter, plan changed. Now just a fun FPGA board with endless expansion pins. Cadence routing gave me gray hairs.*
+## FPGA Core Board 🛠️  
+*Originally for MetaScatter, plans changed. Now just a fun FPGA board with endless expansion pins ⚡.  
+Routing in Cadence gave me gray hairs 😅.*
+
 
 <div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9 -->
   <iframe 
@@ -37,9 +39,10 @@ New projects added from time to time — stay tuned!
 
 ---
 
-## FPGA Beamforming Control Board  
-*Currently a 4-channel FPGA-controlled acoustic beamforming platform, designed for flexible wideband operation.  
-Easily expandable to larger arrays for more advanced experiments — just add more channels and let the FPGA do the magic.*
+## FPGA Beamforming Control Board 🎛️  
+*4-channel FPGA-controlled acoustic beamforming platform with reconfigurable wideband operation.*  
+*Expandable to larger arrays for more complex experiments 🔊🔧.*
+
 
 
 <div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9 -->
