@@ -79,8 +79,13 @@ Thrilled to contribute to the hardware validation of this work!*
       scrolling="no" 
       allowfullscreen="true">
     </iframe>
-    <div style="text-align:center; margin-top:8px;">
-      Shift Register Expansion Board
+    <div style="text-align:left; margin-top:8px;">
+      <a href="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=B9896433-C789-4802-BCD8-E84FC50FC5A9&activeView=PCB" 
+         target="_blank" 
+         rel="noopener noreferrer"
+         style="display:inline-block;padding:10px 18px;background:#0078d4;color:#fff;text-decoration:none;border-radius:6px;">
+        Open in Altium 365
+      </a>
     </div>
   </div>
 
@@ -92,29 +97,17 @@ Thrilled to contribute to the hardware validation of this work!*
       scrolling="no" 
       allowfullscreen="true">
     </iframe>
-    <div style="text-align:center; margin-top:8px;">
-      Electromagnetic Valve Driver Board
+    <div style="text-align:left; margin-top:8px;">
+      <a href="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=5B61E15B-77DD-4671-9F8C-8E5706E4053C&activeView=PCB" 
+         target="_blank" 
+         rel="noopener noreferrer"
+         style="display:inline-block;padding:10px 18px;background:#0078d4;color:#fff;text-decoration:none;border-radius:6px;">
+        Open in Altium 365
+      </a>
     </div>
   </div>
 
 </div>
-
-<div style="margin-top:12px; margin-bottom:30px; text-align:center;">
-  <a href="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=B9896433-C789-4802-BCD8-E84FC50FC5A9&activeView=PCB" 
-     target="_blank" 
-     rel="noopener noreferrer"
-     style="display:inline-block;padding:10px 18px;background:#0078d4;color:#fff;text-decoration:none;border-radius:6px; margin-right:10px;">
-    Open Shift Register Board in Altium 365
-  </a>
-  <a href="https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=5B61E15B-77DD-4671-9F8C-8E5706E4053C&activeView=PCB" 
-     target="_blank" 
-     rel="noopener noreferrer"
-     style="display:inline-block;padding:10px 18px;background:#0078d4;color:#fff;text-decoration:none;border-radius:6px;">
-    Open Valve Driver Board in Altium 365
-  </a>
-</div>
-
-
 
 ---
 ## Compact Metasurface Control Board  
