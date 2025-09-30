@@ -38,7 +38,9 @@ New projects added from time to time — stay tuned!
 ---
 
 ## FPGA Beamforming Control Board  
-*FPGA-controlled acoustic beamforming platform with reconfigurable wideband operation.*
+*Currently a 4-channel FPGA-controlled acoustic beamforming platform, designed for flexible wideband operation.  
+Easily expandable to larger arrays for more advanced experiments — just add more channels and let the FPGA do the magic.*
+
 
 <div style="position:relative;width:100%;padding-top:56.25%;"> <!-- 16:9 -->
   <iframe 
