@@ -5,10 +5,12 @@ permalink: /pcb/
 author_profile: true
 ---
 
-# My PCB Projects
+# My Hardware Projects
 
-Explore my PCB designs interactively using **Altium 365 Viewer**.  
-Each embedded viewer is responsive (16:9) — if the viewer fails to load you can open the project in a new tab via the button.
+Some of these are prototypes from projects I’ve contributed to,  
+while others are just little hardware experiments I couldn’t resist building.  
+Mostly PCBs, FPGA boards, and other tinkering that made me scratch my head (and occasionally my hair).  
+New projects added from time to time — stay tuned!
 
 ---
 
